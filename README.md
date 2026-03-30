@@ -77,12 +77,12 @@ Key highlights include delay analysis by carrier, inventory optimization insight
 ---
 
 ## 📷 Screenshots
-<img width="1346" height="737" alt="Customer_Page" src="https://github.com/user-attachments/assets/df2a5bcd-4ac7-4788-8d93-20248950593a" />
-<img width="1355" height="736" alt="Shipment_Page" src="https://github.com/user-attachments/assets/5a7c4832-4535-4bc4-a627-84b061a06e18" />
-<img width="1360" height="734" alt="Inventory_Page" src="https://github.com/user-attachments/assets/cfeed7ad-187c-4164-b3c3-3e7422d3dd0d" />
-<img width="1321" height="727" alt="Supplier_Page" src="https://github.com/user-attachments/assets/7ee178fd-816b-414d-b06c-7c3669e5d9b1" />
-<img width="1364" height="742" alt="Overview_Page" src="https://github.com/user-attachments/assets/ef49d98a-15b6-4521-976e-0384db467565" />
-<img width="1208" height="788" alt="Home_Page" src="https://github.com/user-attachments/assets/25807cd3-4311-4865-aa05-7ab8e9cb18c1" />
+<img width="1338" height="736" alt="Customer_Page" src="https://github.com/user-attachments/assets/3c3ddff6-c0e3-4fed-805c-7e871bd28518" />
+<img width="1329" height="729" alt="Shipment_Page" src="https://github.com/user-attachments/assets/1a8a89f6-139e-4441-9a53-aef27b4ab168" />
+<img width="1354" height="731" alt="Inventory_Page" src="https://github.com/user-attachments/assets/d1bcc795-f45a-4522-b296-f779d5ab452b" />
+<img width="1332" height="731" alt="Supplier_Page" src="https://github.com/user-attachments/assets/f4acdc68-0896-485f-b32c-cb7e3f09631f" />
+<img width="1338" height="735" alt="Overview_Page" src="https://github.com/user-attachments/assets/d961fa6e-efd0-4d65-a953-8debae2db8f8" />
+<img width="1128" height="776" alt="Home_page" src="https://github.com/user-attachments/assets/f9976809-30b4-429b-a434-0f7cc368bdd2" />
 
 
 ---
