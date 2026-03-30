@@ -1,8 +1,11 @@
 # 📊 Supply Chain & Logistics Dashboard (Power BI)
 
 ## 🚀 Project Overview
-This project presents an **end-to-end Supply Chain & Logistics dashboard** built using Power BI.  
-It provides insights across **Supplier, Inventory, Shipment, and Customer performance**, helping businesses monitor operations and make data-driven decisions.
+This project presents an **end-to-end Supply Chain & Logistics dashboard** built using Power BI to analyze business performance across Supplier, Inventory, Shipment, and Customer domains.  
+
+The dasboard provides actionable insights into key KPIs such as revenue, profit, margin, delivery performance, inventory turnover, and shipment delays. It enables stakeholders to identify operational inefficiencies, monitor supply chain performance, and make data-driven business decision.
+
+Key highlights include delay analysis by carrier, inventory optimization insights, supplier performance evaluation, and customer revenue trends.
 
 ---
 
